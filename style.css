@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    color: blue;
+    font-size: 4rem;
+}
+span{
+    color: darkslategray;
+}
+label{
+    font-size: xx-large;
+}
+input{
+    display: block;
+    margin: 1rem auto;
+    padding: 1rem;
+    font-size: xx-large;
+    margin-bottom: 4rem;
+    
+}
+
+button{
+    font-size: xx-large;
+    margin-top: 2rem;
+}
